@@ -1,1 +1,1 @@
-# ML-Naive-Bayes
+# Naive-Bayes
